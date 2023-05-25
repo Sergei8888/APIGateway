@@ -1,1 +1,11 @@
-### Docs: ${branch-name}.uniscope.space/api/docs
+### Depricated!
+## Прототип Api Gateway для системы удаленных астрономических наблюдений Uniscope
+Разработан на фреймворке Fastify как прослойка между клиентом и планируемой микросервисной архитектурой.
+Было решено отказаться от проекта из-за оверинжениринга системы, и перейти к более простому монолитному решению.
+
+## Get started
+```bash
+yarn install
+yarn dev
+```
+Документация: http://localhost:1500/api/docs/static/index.html
